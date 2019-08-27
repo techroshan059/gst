@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="49.679" height="49.679" viewBox="0 0 49.679 49.679">
+  <defs>
+    <filter id="Rectangle_118" x="0" y="0" width="49.679" height="49.679" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_268" data-name="Group 268" transform="translate(1914.767 -7447.16)">
+    <g transform="matrix(1, 0, 0, 1, -1914.77, 7447.16)" filter="url(#Rectangle_118)">
+      <rect id="Rectangle_118-2" data-name="Rectangle 118" width="31.679" height="31.679" rx="15.84" transform="translate(9 6)" fill="#decb8c"/>
+    </g>
+    <g id="heart" transform="translate(-1900.804 7459.495)">
+      <path id="Path_498" data-name="Path 498" d="M19.828,19.324c-3.218-3.219-6.409-1.812-8.963.484-2.556-2.3-5.72-3.728-8.964-.484a6.4,6.4,0,0,0,0,9.1c8.936,8.038,8.934,8.024,8.934,8.024s.013.026,8.992-8.024A6.4,6.4,0,0,0,19.828,19.324Z" transform="translate(0 -17.429)" fill="#e2574c"/>
+      <path id="Path_499" data-name="Path 499" d="M139.847,19.933l-.006,0v16.63c.143-.121,1.2-1.036,8.969-8.005a6.4,6.4,0,0,0,0-9.1C145.592,16.232,142.4,17.638,139.847,19.933Z" transform="translate(-128.982 -17.555)" fill="#cb4e44"/>
+    </g>
+  </g>
+</svg>
